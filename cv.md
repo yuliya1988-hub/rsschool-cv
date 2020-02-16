@@ -5,7 +5,7 @@ What about me, I would like to change my professional sphere from logistics to I
 
 All my life I used to achieve my goals whatever it was. So I strongly believe in my future in IT. My hard-working skills with ambitions and passion to all that I do will help me to achieve new one.
 
-My skills:
+**My skills:**
 * HTML-basics
 * CSS-basics
 
