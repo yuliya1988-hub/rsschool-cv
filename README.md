@@ -1,2 +1,1 @@
-# rsschool-cv
-repository for my CV
+https://yuliya1988-hub.github.io/rsschool-cv/cv
